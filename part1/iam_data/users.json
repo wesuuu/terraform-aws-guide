@@ -1,0 +1,14 @@
+[
+    {
+        "username": "DeveloperAdmin",
+        "groups": [
+            "Administrators"
+        ]
+    },
+    {
+        "username": "Engineer1",
+        "groups": [
+            "DevOps"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "name": "AWSAdmins",
+        "policy_arns": [
+            "arn:aws:iam::aws:policy/AdministratorAccess"
+        ]
+    },
+    {
+        "name": "DevOps",
+        "policy_arns": [
+            "arn:aws:iam::aws:policy/AmazonS3FullAccess",
+            "arn:aws:iam::aws:policy/AmazonEC2FullAccess"
+        ]
+    }
+]
