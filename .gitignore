@@ -3,3 +3,6 @@
 .terraform/
 .terraform*
 terraform.*
+notes.md
+dev
+dev.pub
